@@ -1,0 +1,13 @@
+{
+    "development": {
+        "config_id": "development",
+        "app_name": "virtual map",
+        "app_desc": "",
+        "node_port": 3000,
+        "json_indentation": 4,
+        "database": "virtual_map",
+        "dbhost": "localhost",
+        "dbuser": "root",
+        "dbpassword": "admin123"
+    }
+}
